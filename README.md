@@ -148,11 +148,11 @@ Open-source frameworks like **TensorFlow** are dominant in research, while propr
 The future of software development will likely be a **hybrid approach**, combining the flexibility and cost-effectiveness of open-source with the support and scalability of proprietary solutions.  
 
 ### **Who Should Use What?**  
-| S.No. | User Type | Open-Source Software | Proprietary Software |
-|-----------|----------------------|----------------------|
-| 1. | **Startups** | Cost-effective, flexible | Expensive for small teams |
-| 2. | **Large Enterprises** | Hybrid adoption | Scalable, enterprise-grade support |
-| 3. | **Creative Professionals** | Limited advanced tools | Industry-standard software like Adobe |
+| S.No. | User Type             | Open-Source Software      | Proprietary Software            |
+|-------|-----------------------|---------------------------|---------------------------------|
+| 1.    | **Startups**           | Cost-effective, flexible  | Expensive for small teams       |
+| 2.    | **Large Enterprises** | Hybrid adoption           | Scalable, enterprise-grade support |
+| 3.    | **Creative Professionals** | Limited advanced tools   | Industry-standard software like Adobe |
 
 ---
 
