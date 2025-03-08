@@ -56,12 +56,12 @@ Proprietary software is developed, maintained, and owned by a single company. It
 ## **3. Advantages and Disadvantages of Each Model**  
 
 ### **Advantages of Open-Source Software**  
-✅ **Cost-Effective** – Many open-source solutions are free, reducing IT expenses.  
-✅ **Transparency & Security** – Publicly accessible code allows independent security audits.  
-✅ **Flexibility & Customization** – Users can modify features to meet specific needs.  
-✅ **Community & Collaboration** – A global community constantly improves the software.  
-✅ **Interoperability** – Open standards enable seamless integration with other tools.  
-✅ **Avoid Vendor Lock-in** – Users can switch between service providers or self-host solutions.  
+- **Cost-Effective** – Many open-source solutions are free, reducing IT expenses.  
+- **Transparency & Security** – Publicly accessible code allows independent security audits.  
+- **Flexibility & Customization** – Users can modify features to meet specific needs.  
+- **Community & Collaboration** – A global community constantly improves the software.  
+- **Interoperability** – Open standards enable seamless integration with other tools.
+- **Avoid Vendor Lock-in** – Users can switch between service providers or self-host solutions.  
 
 ### **Disadvantages of Open-Source Software**  
 ❌ **Requires Technical Knowledge** – Some solutions require advanced IT skills for deployment.  
