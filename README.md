@@ -64,25 +64,25 @@ Proprietary software is developed, maintained, and owned by a single company. It
 - **Avoid Vendor Lock-in** – Users can switch between service providers or self-host solutions.  
 
 ### **Disadvantages of Open-Source Software**  
-❌ **Requires Technical Knowledge** – Some solutions require advanced IT skills for deployment.  
-❌ **Limited Official Support** – While communities provide help, businesses may need paid support.  
-❌ **Fragmentation** – Multiple versions or forks may create compatibility challenges.  
-❌ **User Experience (UX) May Be Less Polished** – Not always as user-friendly as proprietary alternatives.  
+- **Requires Technical Knowledge** – Some solutions require advanced IT skills for deployment.  
+- **Limited Official Support** – While communities provide help, businesses may need paid support.  
+- **Fragmentation** – Multiple versions or forks may create compatibility challenges.  
+- **User Experience (UX) May Be Less Polished** – Not always as user-friendly as proprietary alternatives.  
 
 ---
 
 ### **Advantages of Proprietary Software**  
-✅ **Ease of Use** – Designed with user-friendly interfaces and smooth functionality.  
-✅ **Official Technical Support** – Dedicated vendor support ensures reliability.  
-✅ **Regular Updates & Security Patches** – Frequent software updates improve performance and security.  
-✅ **Enterprise-Grade Features** – Built-in compliance, analytics, and integrations.  
-✅ **Guaranteed Stability & Compliance** – Meets strict industry regulations (ISO, HIPAA, GDPR).  
+- **Ease of Use** – Designed with user-friendly interfaces and smooth functionality.  
+- **Official Technical Support** – Dedicated vendor support ensures reliability.  
+- **Regular Updates & Security Patches** – Frequent software updates improve performance and security.  
+- **Enterprise-Grade Features** – Built-in compliance, analytics, and integrations.  
+- **Guaranteed Stability & Compliance** – Meets strict industry regulations (ISO, HIPAA, GDPR).  
 
 ### **Disadvantages of Proprietary Software**  
-❌ **Expensive Licensing & Subscription Fees** – Costs increase with usage.  
-❌ **Limited Customization** – Cannot modify source code to meet unique needs.  
-❌ **Vendor Lock-in** – Businesses become dependent on a single provider.  
-❌ **Privacy & Data Control Issues** – Must trust the vendor’s data handling policies.  
+- **Expensive Licensing & Subscription Fees** – Costs increase with usage.  
+- **Limited Customization** – Cannot modify source code to meet unique needs.  
+- **Vendor Lock-in** – Businesses become dependent on a single provider.  
+- **Privacy & Data Control Issues** – Must trust the vendor’s data handling policies.  
 
 ---
 
@@ -138,13 +138,13 @@ Examining real-world examples helps understand how businesses and governments **
 **Country:** **France**  
 **Scenario:** The French government transitioned to open-source software to reduce reliance on expensive proprietary licenses and enhance data security.  
 **Actions Taken:**  
-✅ Switched from Microsoft Office to LibreOffice across multiple agencies.  
-✅ Adopted Linux-based systems to reduce costs.  
-✅ Encouraged the use of open-source programming frameworks.  
+- Switched from Microsoft Office to LibreOffice across multiple agencies.  
+- Adopted Linux-based systems to reduce costs.  
+- Encouraged the use of open-source programming frameworks.  
 **Results:**  
-✔️ **Annual cost savings of €10 million+** on software licensing.  
-✔️ Improved **data sovereignty and security** by hosting software internally.  
-✔️ Increased **collaboration among public institutions** using open-source solutions.  
+- **Annual cost savings of €10 million+** on software licensing.  
+- Improved **data sovereignty and security** by hosting software internally.  
+- Increased **collaboration among public institutions** using open-source solutions.  
 
 ---
 
@@ -152,13 +152,13 @@ Examining real-world examples helps understand how businesses and governments **
 **Company:** **Adobe Inc.**  
 **Scenario:** Adobe transformed from a licensed software model to a subscription-based proprietary service, Adobe Creative Cloud.  
 **Actions Taken:**  
-✅ Transitioned from one-time software purchases (e.g., Photoshop CS) to a **cloud subscription model**.  
-✅ Focused on **exclusive, high-end features** to maintain dominance in the design industry.  
-✅ Ensured **seamless integration across its software suite** to keep users within its ecosystem.  
+- Transitioned from one-time software purchases (e.g., Photoshop CS) to a **cloud subscription model**.  
+- Focused on **exclusive, high-end features** to maintain dominance in the design industry.  
+- Ensured **seamless integration across its software suite** to keep users within its ecosystem.  
 **Results:**  
-✔️ **Revenue grew by 22% annually** after switching to a subscription model.  
-✔️ **Dominance in creative industries** due to specialized, cutting-edge tools.  
-✔️ **Increased customer retention** via continuous feature improvements and cloud storage.  
+- **Revenue grew by 22% annually** after switching to a subscription model.  
+- **Dominance in creative industries** due to specialized, cutting-edge tools.  
+- **Increased customer retention** via continuous feature improvements and cloud storage.  
 
 ---
 
@@ -166,13 +166,13 @@ Examining real-world examples helps understand how businesses and governments **
 **Company:** **Tesla**  
 **Scenario:** Tesla combines **open-source and proprietary** software for vehicle automation and AI.  
 **Actions Taken:**  
-✅ Uses **Linux-based operating systems** for in-car software.  
-✅ Employs **proprietary AI and self-driving algorithms** to maintain competitive advantage.  
-✅ Open-sourced **Tesla Autopilot’s early software**, encouraging third-party innovation.  
+- Uses **Linux-based operating systems** for in-car software.  
+- Employs **proprietary AI and self-driving algorithms** to maintain competitive advantage.  
+- Open-sourced **Tesla Autopilot’s early software**, encouraging third-party innovation.  
 **Results:**  
-✔️ **Rapid AI innovation** through community contributions.  
-✔️ **Lower software development costs** by leveraging existing OSS frameworks.  
-✔️ **Maintained a competitive edge** by keeping key self-driving features proprietary.  
+- **Rapid AI innovation** through community contributions.  
+- **Lower software development costs** by leveraging existing OSS frameworks.  
+- **Maintained a competitive edge** by keeping key self-driving features proprietary.  
 
 ---
 
@@ -235,19 +235,19 @@ Organizations and individuals should evaluate the following **decision-making fa
 The **future of software development** is a **hybrid approach**, leveraging both **open-source and proprietary models** based on industry needs.  
 
 ### **Key Takeaways:**  
-- ✅ **Open-source software** is cost-effective, transparent, and highly customizable.  
-- ✅ **Proprietary software** ensures usability, security, and enterprise support.  
-- ✅ **Hybrid models** combine open-source innovation with proprietary enterprise solutions.  
-- ✅ **Government & enterprises are increasingly adopting open-source for digital sovereignty**.  
-- ✅ **Startups leverage open-source to scale faster without high licensing costs**.  
+- **Open-source software** is cost-effective, transparent, and highly customizable.  
+-  **Proprietary software** ensures usability, security, and enterprise support.  
+-  **Hybrid models** combine open-source innovation with proprietary enterprise solutions.  
+-  **Government & enterprises are increasingly adopting open-source for digital sovereignty**.  
+-  **Startups leverage open-source to scale faster without high licensing costs**.  
 
 ### **Who Should Use What?**  
 | User Type | Open-Source Software | Proprietary Software |
 |-----------|----------------------|----------------------|
-| **Startups & Entrepreneurs** | ✅ Low-cost, flexible solutions | ❌ Expensive for small teams |
-| **Large Enterprises** | ✅ Hybrid adoption | ✅ Scalable, enterprise-grade support |
-| **Developers & IT Professionals** | ✅ Customizable, open frameworks | ❌ Limited access to source code |
-| **Government & Public Sector** | ✅ Transparency, cost savings | ❌ Vendor lock-in risks |
-| **Creative Professionals** | ❌ Limited advanced tools | ✅ Adobe, Autodesk, and industry-standard software |
+| **Startups & Entrepreneurs** |  Low-cost, flexible solutions |  Expensive for small teams |
+| **Large Enterprises** |  Hybrid adoption |  Scalable, enterprise-grade support |
+| **Developers & IT Professionals** |  Customizable, open frameworks |  Limited access to source code |
+| **Government & Public Sector** |  Transparency, cost savings |  Vendor lock-in risks |
+| **Creative Professionals** |  Limited advanced tools |  Adobe, Autodesk, and industry-standard software |
 
 ---
