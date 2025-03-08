@@ -38,15 +38,6 @@ Proprietary software, on the other hand, is owned by a company. Users must pay f
 
 ![My Image](./Open-source-vs-commercial-approach.png)
 
-| S.No. | Feature          | Open-Source Software      | Proprietary Software            |
-|-------|------------------|---------------------------|---------------------------------|
-| 1.    | **Cost**         | Free or low-cost          | Requires licensing              |
-| 2.    | **Customization**| High flexibility          | Limited customization           |
-| 3.    | **Security**     | Transparent, audit-friendly| Vendor-controlled security      |
-| 4.    | **Support**      | Community-based           | Vendor support available        |
-| 5.    | **Scalability**  | Flexible                  | Often higher cost for scaling   |
-| 6.    | **Reliability**  | Dependent on community    | Backed by vendor support        |
-
 ---
 
 ## **3. Pros and Cons of Open-Source and Proprietary Software**  
