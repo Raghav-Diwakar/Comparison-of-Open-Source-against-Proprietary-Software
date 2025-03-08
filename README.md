@@ -1,6 +1,3 @@
-# Comparison-of-Open-Source-against-Proprietary-Software
-
-
 # **Comparison of Open Source vs. Proprietary Software**  
 
 ## **Introduction**  
