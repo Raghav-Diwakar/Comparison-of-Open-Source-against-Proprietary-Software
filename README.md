@@ -1,5 +1,7 @@
 # **Choosing Between Open-Source and Proprietary Software: What You Need to Know**  
 
+![My Image](./open-source-software-vs-closed-source-software-feature-image.png)
+
 ## **Introduction**  
 Software powers everything from websites to artificial intelligence and cybersecurity, making it a crucial part of modern life. When choosing software, we often face the decision between **open-source software (OSS)** and **proprietary (closed-source) software**.  
 
