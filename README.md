@@ -34,14 +34,14 @@ Proprietary software, on the other hand, is owned by a company. Users must pay f
 
 ## **2. Key Differences Between Open-Source and Proprietary Software**  
 
-| Feature | Open-Source Software | Proprietary Software |
-|---------|----------------------|----------------------|
-| **Cost** | Free or low-cost | Requires licensing |
-| **Customization** | High flexibility | Limited customization |
-| **Security** | Transparent, audit-friendly | Vendor-controlled security |
-| **Support** | Community-based | Vendor support available |
-| **Scalability** | Flexible | Often higher cost for scaling |
-| **Reliability** | Dependent on community | Backed by vendor support |
+| S.No. | Feature          | Open-Source Software      | Proprietary Software            |
+|-------|------------------|---------------------------|---------------------------------|
+| 1.    | **Cost**         | Free or low-cost          | Requires licensing              |
+| 2.    | **Customization**| High flexibility          | Limited customization           |
+| 3.    | **Security**     | Transparent, audit-friendly| Vendor-controlled security      |
+| 4.    | **Support**      | Community-based           | Vendor support available        |
+| 5.    | **Scalability**  | Flexible                  | Often higher cost for scaling   |
+| 6.    | **Reliability**  | Dependent on community    | Backed by vendor support        |
 
 ---
 
