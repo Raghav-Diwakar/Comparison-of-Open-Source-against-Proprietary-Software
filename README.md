@@ -1,7 +1,7 @@
 # **Choosing Between Open-Source and Proprietary Software: What You Need to Know**  
 
 **Submitted By :** Raghav\
-**Submitted To :** Ms Moumita Roy\
+**Submitted To :** Ms Moumita Roy
 
 ![My Image](./open-source-software-vs-closed-source-software-feature-image.png)
 
