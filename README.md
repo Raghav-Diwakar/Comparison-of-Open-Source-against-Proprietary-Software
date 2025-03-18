@@ -1,10 +1,25 @@
-
-
 # **Choosing Between Open-Source and Proprietary Software: What You Need to Know**  
+
+**Author:** Raghav Diwakar
+**Date:** 18 March 2025  
 
 ![My Image](./open-source-software-vs-closed-source-software-feature-image.png)
 
-## **Introduction**  
+# **Table of Contents**  
+1. [Introduction](#introduction)  
+2. [Understanding Open-Source and Proprietary Software](#understanding-open-source-and-proprietary-software)  
+   - [What is Open-Source Software?](#what-is-open-source-software)  
+   - [What is Proprietary (Closed-Source) Software?](#what-is-proprietary-closed-source-software)  
+3. [Key Differences Between Open-Source and Proprietary Software](#key-differences-between-open-source-and-proprietary-software)  
+4. [Pros and Cons of Open-Source and Proprietary Software](#pros-and-cons-of-open-source-and-proprietary-software)  
+5. [Real-World Use Cases](#real-world-use-cases)  
+6. [The Future of Software: Hybrid Models](#the-future-of-software-hybrid-models)  
+7. [Choosing Between Open-Source and Proprietary Software](#choosing-between-open-source-and-proprietary-software)  
+8. [The Role of Open-Source and Proprietary Software in Emerging Technologies](#the-role-of-open-source-and-proprietary-software-in-emerging-technologies)  
+9. [Final Thoughts: Striking a Balance](#final-thoughts-striking-a-balance)  
+10. [References](#references)  
+
+## **1. Introduction**  
 Software powers everything from websites to artificial intelligence and cybersecurity, making it a crucial part of modern life. When choosing software, we often face the decision between **open-source software (OSS)** and **proprietary (closed-source) software**.  
 
 Open-source software gives users access to the source code, meaning anyone can modify and share it freely. In Proprietary(Closed) software is developed and owned by a company, and users must pay for it while being restricted in terms of customization.  
@@ -12,7 +27,7 @@ Open-source software gives users access to the source code, meaning anyone can m
 
 ---
 
-## **1. Understanding Open-Source and Proprietary Software**  
+## **2. Understanding Open-Source and Proprietary Software**  
 
 ### **What is Open-Source Software?**  
 Open-source software is all about collaboration. It is developed by communities, universities, businesses, and individuals worldwide, and the source code is made available for anyone to access, modify, and improve.  
@@ -35,13 +50,13 @@ Proprietary software is owned by a company. Users must pay for it, and the softw
 
 ---
 
-## **2. Key Differences Between Open-Source and Proprietary Software**  
+## **3. Key Differences Between Open-Source and Proprietary Software**  
 
 ![My Image](./Open-source-vs-commercial-approach.png)
 
 ---
 
-## **3. Pros and Cons of Open-Source and Proprietary Software**  
+## **4. Pros and Cons of Open-Source and Proprietary Software**  
 
 ### **The Benefits of Open-Source Software**  
 - **Cost-Effective** – Many open-source tools are free, which can reduce IT budgets.  
@@ -68,7 +83,7 @@ Proprietary software is owned by a company. Users must pay for it, and the softw
 
 ---
 
-## **4. Real-World Use Cases**  
+## **5. Real-World Use Cases**  
 
 ### **When Open-Source Software Works Best**  
 - **Government & Public Sector** – Countries like **France** and **India** have adopted open-source solutions for cost savings and security.  
@@ -81,7 +96,7 @@ Proprietary software is owned by a company. Users must pay for it, and the softw
 
 ---
 
-## **5. The Future of Software: Hybrid Models**  
+## **6. The Future of Software: Hybrid Models**  
 
 Many organizations are moving toward a **hybrid approach** where both open-source and proprietary solutions are used together.  
 
@@ -90,7 +105,7 @@ Many organizations are moving toward a **hybrid approach** where both open-sourc
 
 ---
 
-## **6. Choosing Between Open-Source and Proprietary Software**  
+## **7. Choosing Between Open-Source and Proprietary Software**  
 
 When selecting software, consider the following factors:  
 
@@ -101,7 +116,7 @@ When selecting software, consider the following factors:
 
 ---
 
-## **7. The Role of Open-Source and Proprietary Software in Emerging Technologies**  
+## **8. The Role of Open-Source and Proprietary Software in Emerging Technologies**  
 
 ### **Cloud Computing**  
 Open-source projects like **Kubernetes** are leading the way, while **AWS** and **Microsoft Azure** are the main proprietary players.  
@@ -111,7 +126,7 @@ Open-source frameworks like **TensorFlow** are dominant in research, while propr
 
 ---
 
-## **8. Final Thoughts: Striking a Balance**  
+## **9. Final Thoughts: Striking a Balance**  
 
 The future of software development will likely be a **hybrid approach**, combining the flexibility and cost-effectiveness of open-source with the support and scalability of proprietary solutions.  
 
@@ -121,5 +136,14 @@ The future of software development will likely be a **hybrid approach**, combini
 | 1.    | **Startups**           | Cost-effective, flexible  | Expensive for small teams       |
 | 2.    | **Large Enterprises** | Hybrid adoption           | Scalable, enterprise-grade support |
 | 3.    | **Creative Professionals** | Limited advanced tools   | Industry-standard software like Adobe |
+
+---
+
+## **10. References**  
+1. [Open Source Initiative](https://opensource.org/)  
+2. [Free Software Foundation](https://www.fsf.org/)  
+3. [The Linux Foundation](https://www.linuxfoundation.org/)  
+4. [Apache Software Foundation](https://www.apache.org/)  
+5. [MIT Open-Source Licensing](https://opensource.mit.edu/)  
 
 ---
