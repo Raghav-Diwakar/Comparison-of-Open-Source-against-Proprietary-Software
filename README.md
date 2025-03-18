@@ -90,34 +90,6 @@ Many organizations are moving toward a **hybrid approach** where both open-sourc
 
 ---
 
-## **6. Case Studies: Real-World Examples**  
-
-### **Case Study 1: Government Embracing Open-Source**  
-**Country:** **France**  
-**Challenge:** France needed to reduce reliance on expensive software licenses.  
-**Solution:** The government switched to open-source tools like **LibreOffice** and **Linux**.  
-**Outcome:**  
-- **€10 million+ in savings** annually.  
-- Enhanced **data security** and **sovereignty**.  
-
-### **Case Study 2: Proprietary Software Dominance**  
-**Company:** **Adobe**  
-**Challenge:** Adobe wanted to maintain its lead in the creative industry.  
-**Solution:** Transitioned to a **subscription-based** model with **Adobe Creative Cloud**.  
-**Outcome:**  
-- Increased revenue by **22%** annually.  
-- Solidified its dominance in creative tools.  
-
-### **Case Study 3: A Hybrid Approach at Tesla**  
-**Company:** **Tesla**  
-**Challenge:** Tesla needed flexible, cost-effective solutions for their software needs.  
-**Solution:** Tesla uses a mix of **open-source (Linux)** for vehicle software and **proprietary AI** for self-driving capabilities.  
-**Outcome:**  
-- **Faster innovation** in AI development.  
-- Lower development costs by leveraging open-source.
-
----
-
 ## **7. Choosing Between Open-Source and Proprietary Software**  
 
 When selecting software, consider the following factors:  
