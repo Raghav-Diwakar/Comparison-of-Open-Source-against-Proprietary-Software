@@ -54,14 +54,13 @@ Proprietary software is owned by a company. Users must pay for it, and the softw
 
 ## **Key Differences Between Open-Source and Proprietary Software**  
 
-| S.No. | Types                 | Open-Source Software      | Proprietary Software            |
-|-------|-----------------------|---------------------------|---------------------------------|
-| 1.    | **Maintenance-free pre-build connectors**         | Difficulty in quality standards  | Limited in addressing long tail      |
-| 2.    | **Addressing unique needs/ corner cases** | Ability to adopt to any cases by yourself | Limited by ROI justification |
-| 3.    | **Pricing model** | Free or based on features   | Usage-based limits team's usage |
-| 4.    | **Debugging autonomy** | Free or based on feature | Usage-based limits team's usage |
-| 5.    | **Getting resources**  | Open-source | Harder to get for external vendors |
-
+| S.No. | Types                                   | Open-Source Software                        | Proprietary Software                        |
+|-------|-----------------------------------------|---------------------------------------------|---------------------------------------------|
+| 1.    | **Maintenance-free pre-build connectors** | Difficulty in maintaining quality standards  | Limited in addressing long-tail needs      |
+| 2.    | **Addressing unique needs/corner cases** | Ability to adapt to any case by yourself    | Limited by ROI justification               |
+| 3.    | **Pricing model**                       | Free or based on features                  | Usage-based limits team's usage            |
+| 4.    | **Debugging autonomy**                  | Full autonomy for debugging                | Limited autonomy for debugging              |
+| 5.    | **Getting resources**                   | Open-source, easily accessible              | Harder to obtain for external vendors      |
 
 ---
 
