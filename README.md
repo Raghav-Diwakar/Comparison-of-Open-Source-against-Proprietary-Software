@@ -1,6 +1,7 @@
 # **Choosing Between Open-Source and Proprietary Software: What You Need to Know**  
 
 **Author:** Raghav Diwakar
+
 **Date:** 18 March 2025  
 
 ![My Image](./open-source-software-vs-closed-source-software-feature-image.png)
