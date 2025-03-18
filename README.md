@@ -53,13 +53,13 @@ Proprietary software is owned by a company. Users must pay for it, and the softw
 
 ---
 
-## **3. Key Differences Between Open-Source and Proprietary Software**  
+## **Key Differences Between Open-Source and Proprietary Software**  
 
 ![My Image](./Open-source-vs-commercial-approach.png)
 
 ---
 
-## **4. Pros and Cons of Open-Source and Proprietary Software**  
+## **Pros and Cons of Open-Source and Proprietary Software**  
 
 ### **The Benefits of Open-Source Software**  
 - **Cost-Effective** – Many open-source tools are free, which can reduce IT budgets.  
@@ -86,7 +86,7 @@ Proprietary software is owned by a company. Users must pay for it, and the softw
 
 ---
 
-## **5. Real-World Use Cases**  
+## **Real-World Use Cases**  
 
 ### **When Open-Source Software Works Best**  
 - **Government & Public Sector** – Countries like **France** and **India** have adopted open-source solutions for cost savings and security.  
@@ -99,7 +99,7 @@ Proprietary software is owned by a company. Users must pay for it, and the softw
 
 ---
 
-## **6. The Future of Software: Hybrid Models**  
+## **The Future of Software: Hybrid Models**  
 
 Many organizations are moving toward a **hybrid approach** where both open-source and proprietary solutions are used together.  
 
@@ -108,7 +108,7 @@ Many organizations are moving toward a **hybrid approach** where both open-sourc
 
 ---
 
-## **7. Choosing Between Open-Source and Proprietary Software**  
+## **Choosing Between Open-Source and Proprietary Software**  
 
 When selecting software, consider the following factors:  
 
@@ -119,7 +119,7 @@ When selecting software, consider the following factors:
 
 ---
 
-## **8. The Role of Open-Source and Proprietary Software in Emerging Technologies**  
+## **The Role of Open-Source and Proprietary Software in Emerging Technologies**  
 
 ### **Cloud Computing**  
 Open-source projects like **Kubernetes** are leading the way, while **AWS** and **Microsoft Azure** are the main proprietary players.  
@@ -129,7 +129,7 @@ Open-source frameworks like **TensorFlow** are dominant in research, while propr
 
 ---
 
-## **9. Final Thoughts: Striking a Balance**  
+## **Final Thoughts: Striking a Balance**  
 
 The future of software development will likely be a **hybrid approach**, combining the flexibility and cost-effectiveness of open-source with the support and scalability of proprietary solutions.  
 
@@ -142,7 +142,7 @@ The future of software development will likely be a **hybrid approach**, combini
 
 ---
 
-## **10. References**  
+## **References**  
 1. [Open Source Initiative](https://opensource.org/)  
 2. [Free Software Foundation](https://www.fsf.org/)  
 3. [The Linux Foundation](https://www.linuxfoundation.org/)  
