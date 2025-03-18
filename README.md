@@ -1,4 +1,4 @@
-# **Choosing Between Open-Source and Proprietary Software: What You Need to Know**  
+# **Choosing Between Open-Source and Proprietary Software: \What You Need to Know**  
 
 **Submitted By:** Raghav\
 **Submitted To:** Ms Moumita Roy\
