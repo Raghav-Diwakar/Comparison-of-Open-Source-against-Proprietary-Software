@@ -6,6 +6,7 @@
 
 ![My Image](./open-source-software-vs-closed-source-software-feature-image.png)
 
+
 # **Table of Contents**  
 1. [Introduction](#introduction)  
 2. [Understanding Open-Source and Proprietary Software](#understanding-open-source-and-proprietary-software)  
@@ -19,6 +20,7 @@
 8. [The Role of Open-Source and Proprietary Software in Emerging Technologies](#the-role-of-open-source-and-proprietary-software-in-emerging-technologies)  
 9. [Final Thoughts: Striking a Balance](#final-thoughts-striking-a-balance)  
 10. [References](#references)  
+
 
 ## **1. Introduction**  
 Software powers everything from websites to artificial intelligence and cybersecurity, making it a crucial part of modern life. When choosing software, we often face the decision between **open-source software (OSS)** and **proprietary (closed-source) software**.  
