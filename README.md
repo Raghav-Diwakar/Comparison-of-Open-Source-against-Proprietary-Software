@@ -54,8 +54,6 @@ Proprietary software is owned by a company. Users must pay for it, and the softw
 
 ## **Key Differences Between Open-Source and Proprietary Software**  
 
-![My Image](./Open-source-vs-commercial-approach.png)
-
 | S.No. | Types                 | Open-Source Software      | Proprietary Software            |
 |-------|-----------------------|---------------------------|---------------------------------|
 | 1.    | **Maintenance-free pre-build connectors**         | Difficulty in quality standards  | Limited in addressing long tail      |
