@@ -90,7 +90,7 @@ Many organizations are moving toward a **hybrid approach** where both open-sourc
 
 ---
 
-## **7. Choosing Between Open-Source and Proprietary Software**  
+## **6. Choosing Between Open-Source and Proprietary Software**  
 
 When selecting software, consider the following factors:  
 
@@ -101,7 +101,7 @@ When selecting software, consider the following factors:
 
 ---
 
-## **8. The Role of Open-Source and Proprietary Software in Emerging Technologies**  
+## **7. The Role of Open-Source and Proprietary Software in Emerging Technologies**  
 
 ### **Cloud Computing**  
 Open-source projects like **Kubernetes** are leading the way, while **AWS** and **Microsoft Azure** are the main proprietary players.  
@@ -111,7 +111,7 @@ Open-source frameworks like **TensorFlow** are dominant in research, while propr
 
 ---
 
-## **9. Final Thoughts: Striking a Balance**  
+## **8. Final Thoughts: Striking a Balance**  
 
 The future of software development will likely be a **hybrid approach**, combining the flexibility and cost-effectiveness of open-source with the support and scalability of proprietary solutions.  
 
