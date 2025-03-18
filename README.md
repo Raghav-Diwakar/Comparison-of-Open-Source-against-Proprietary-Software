@@ -22,7 +22,7 @@
 10. [References](#references)  
 
 
-## **1. Introduction**  
+## **Introduction**  
 Software powers everything from websites to artificial intelligence and cybersecurity, making it a crucial part of modern life. When choosing software, we often face the decision between **open-source software (OSS)** and **proprietary (closed-source) software**.  
 
 Open-source software gives users access to the source code, meaning anyone can modify and share it freely. In Proprietary(Closed) software is developed and owned by a company, and users must pay for it while being restricted in terms of customization.  
@@ -30,7 +30,7 @@ Open-source software gives users access to the source code, meaning anyone can m
 
 ---
 
-## **2. Understanding Open-Source and Proprietary Software**  
+## **Understanding Open-Source and Proprietary Software**  
 
 ### **What is Open-Source Software?**  
 Open-source software is all about collaboration. It is developed by communities, universities, businesses, and individuals worldwide, and the source code is made available for anyone to access, modify, and improve.  
